@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/46xgtqvajir2arex?svg=true)](https://ci.appveyor.com/project/inclem763/javahomeworkautotest2-2)
